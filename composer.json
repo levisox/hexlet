@@ -1,0 +1,15 @@
+{
+    "name": "levisox/hexlet",
+    "autoload": {
+        "psr-4": {
+            "Levisox\\Hexlet\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Петр Олейников",
+            "email": "levisox@icloud.com"
+        }
+    ],
+    "require": {}
+}
